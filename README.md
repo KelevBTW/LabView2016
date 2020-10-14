@@ -26,7 +26,7 @@
 להכנס לתיקייה שבה התקנתם את התוכנה~
 ![Screenshot_30](https://user-images.githubusercontent.com/72851391/95959380-08ccca00-0e0b-11eb-83b1-44dbc6425f94.png)
 
-המשך המדריך בקובץ מדריך ההתקנה בתיקייה שהורדתם דרך האתר~
+המשך המדריך בקובץ מדריך התקנה בתיקייה שהורדתם דרך האתר~
 ![Screenshot_31](https://user-images.githubusercontent.com/72851391/95959622-63febc80-0e0b-11eb-9c78-56571670b678.png)
 
 
